@@ -14,4 +14,3 @@ From the original source:
 
 * [Java 8](./java8)
 * [Scala](./scala)
-* [Haskell](./haskell)
